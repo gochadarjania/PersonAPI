@@ -1,6 +1,6 @@
 ## Installation
 
 * Clone github repository, or download and unzip it.
-* Create Migration  
+* Run database migrations
 
  <pre>update-database</pre>
